@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:598040@cluster0-vrzgz.mongodb.net/personal-blog?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
